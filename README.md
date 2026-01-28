@@ -1,9 +1,11 @@
 # -_-_probabilidad_de_lanzamiento_de_una_moneda_javaFX_oracle_19c_- :.
 # 📊 Probabilidad de Lanzamiento de una Moneda – JavaFX + Oracle 19c.
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/dfd8f1c8-5b0d-4a37-b81a-a85bcbb59095" />      
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/dfd8f1c8-5b0d-4a37-b81a-a85bcbb59095" />          
 
-<img width="2553" height="1079" alt="image" src="https://github.com/user-attachments/assets/a04b93ae-b583-4cc3-953e-c613cecd4b1e" />    
+<img width="2552" height="1079" alt="image" src="https://github.com/user-attachments/assets/8150cb54-81fc-48dd-bfdd-8020eb9fa925" />    
+
+<img width="2553" height="1079" alt="image" src="https://github.com/user-attachments/assets/a04b93ae-b583-4cc3-953e-c613cecd4b1e" />        
 
 A continuación se presenta una **solución completa, profesional y ejecutable** en **Java (IntelliJ IDEA) con JavaFX**, que:
 
