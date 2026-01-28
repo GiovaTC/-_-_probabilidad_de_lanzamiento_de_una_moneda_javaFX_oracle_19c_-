@@ -1,4 +1,5 @@
 module com.example.probabilidad {
+
     requires javafx.controls;
     requires javafx.fxml;
 
@@ -7,6 +8,6 @@ module com.example.probabilidad {
     requires org.kordamp.bootstrapfx.core;
     requires java.sql;
 
-    opens com.example.probabilidad to javafx.fxml;
-    exports com.example.probabilidad;
+    exports com.example.probabilidad.ui;
+    opens com.example.probabilidad.ui to javafx.fxml;
 }
